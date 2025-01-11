@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.imanolortiz</groupId>
-	<artifactId>Ejercicio4</artifactId>
+	<artifactId>games-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Ejercicio4</name>
+	<name>games-service</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -26,13 +26,6 @@
 		<tag/>
 		<url/>
 	</scm>
-
-
-	<modules>
-		<module>eligibility-microservice</module>
-		<module>games-service</module>
-	</modules>
-
 	<properties>
 		<java.version>17</java.version>
 	</properties>
